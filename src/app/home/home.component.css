@@ -1,0 +1,5 @@
+/* Optional styling, as Tailwind CSS is used for most styles */
+
+button:hover {
+  transform: scale(1.1);
+}

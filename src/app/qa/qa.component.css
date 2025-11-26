@@ -1,0 +1,11 @@
+.chat-box {
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+button:hover {
+  background-color: #2563eb;
+}
+div[overflow-y] {
+  scroll-behavior: smooth;
+}
